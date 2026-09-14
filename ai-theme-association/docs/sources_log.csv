@@ -1,0 +1,9 @@
+source,category,access_method,date_range,n_docs,cost_gbp,limitations
+sec_edgar,primary,"data.sec.gov submissions API + filing fetch",,,0,
+sec_8k_ex99,primary,"8-K Exhibit 99.1",,,0,
+transcripts,primary,,,,,
+ir_newsroom,primary,,,,0,
+gdelt_doc,secondary,"api.gdeltproject.org DOC 2.0",,,0,
+hn_algolia,secondary,"hn.algolia.com search_by_date",,,0,
+yfinance,primary,"yfinance / Stooq fallback",,,0,
+ken_french,primary,"Kenneth French Data Library, daily FF5 + MOM",,,0,
